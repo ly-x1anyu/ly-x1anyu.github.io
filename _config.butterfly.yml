@@ -17,7 +17,7 @@ menu:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
    Link: /link/ || fas fa-link
-  # About: /about/ || fas fa-heart
+   About: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -54,12 +54,12 @@ disable_top_img: false
 index_img: https://api.boxmoe.com/random.php
 
 # If the banner of page not setting, it will show the top_img 如果页面的标题没有设置，它将显示top_img
-default_top_img:
+default_top_img: 
 
 # The banner image of archive page 档案页面的横幅图像
 archive_img:
 
-# If the banner of tag page not setting, it will show the top_img 如果标签页的标题没有设置，它将显示top_img
+# If the banner of tag page not setting, it will show the top_img 如果页面的标题没有设置，它将显示top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
 tag_img:
 
