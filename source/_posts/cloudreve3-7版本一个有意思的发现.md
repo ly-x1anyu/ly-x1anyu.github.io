@@ -8,6 +8,7 @@ id: '224'
 categories:
   - - 技术交流
 date: 2023-06-02 17:14:27
+cover: https://api.boxmoe.com/random.php?224
 ---
 
 昨天更新了Cloudreve到3.7.1版本，发现一个很有意思的情况

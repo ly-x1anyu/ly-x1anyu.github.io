@@ -87,9 +87,16 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-     - https://api.boxmoe.com/random.php
-     - https://api.boxmoe.com/random.php
-     - https://api.boxmoe.com/random.php
+     - https://api.boxmoe.com/random.php?1
+     - https://api.boxmoe.com/random.php?2
+     - https://api.boxmoe.com/random.php?3
+     - https://api.boxmoe.com/random.php?4
+     - https://api.boxmoe.com/random.php?5
+     - https://api.boxmoe.com/random.php?6
+     - https://api.boxmoe.com/random.php?7
+     - https://api.boxmoe.com/random.php?8
+     - https://api.boxmoe.com/random.php?9
+     - https://api.boxmoe.com/random.php?10
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:

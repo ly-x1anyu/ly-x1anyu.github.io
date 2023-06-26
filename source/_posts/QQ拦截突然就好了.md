@@ -7,6 +7,7 @@ tags:
 id: '242'
 categories:
   - - 日常吐槽
+cover: https://api.boxmoe.com/random.php?242
 ---
 
 今天QQ不小心点到博客链接，竟然成功进来了

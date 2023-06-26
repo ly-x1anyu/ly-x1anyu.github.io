@@ -8,6 +8,7 @@ id: '175'
 categories:
   - - 技术分享
 date: 2022-06-18 12:23:00
+cover: https://api.boxmoe.com/random.php?175
 ---
 
 > 最近专业结课作业要求使用虚拟机搭建VPN服务器连接外网和内网，做完之后想到还可以使用虚拟机安装 Linux 系统来搭建本地服务器

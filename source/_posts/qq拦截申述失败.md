@@ -7,6 +7,7 @@ id: '237'
 categories:
   - - 日常吐槽
 date: 2023-06-06 19:52:35
+cover: https://api.boxmoe.com/random.php?237
 ---
 
 昨天用qq想打开网站看一看，结果提示非官方页面
